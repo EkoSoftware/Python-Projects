@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Button Example</title>
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" rel="stylesheet">
+</head>
+<body>
+	<h1>{{content}}</h1>
+	<form class="w3-container" action="/result" method="post">
+		<label>First Name</label>
+		<input class="w3-input" type="text">
+		<label>Last Name</label>
+		<input class="w3-input" type="text">
+		<button class="ui button">Submit</button>
+		{% if Submit %}
+			<div id="result">Ditt hela namn: {{ result }}</div>
+		{% endif %}
+	</form>
+	
+	
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js"></script>
+</body>
+</html>

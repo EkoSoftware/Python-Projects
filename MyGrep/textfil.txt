@@ -1,0 +1,41 @@
+Consensus: 1 557 %
+Copyrights: 938 %
+What Wikipedia is not: 929 %
+Deletion: 580 %
+Civility: 124 %
+Siffran för "deletion" ansågs ej vara rättvis och heltäckande då policyn har delats upp i flera underpolicyer.
+
+Anonymitet
+Wikipedia gör det möjligt att redigera anonymt. De som redigerar måste inte uppge sin identitet, eller ens en e-postadress. En studie från 2007 vid Dartmouth College av franskspråkiga och nederländska Wikipedia, pekar på att i motsats till det förväntade sociala mönstret, var de som redigerade anonymt några av de mest produktiva bidragsgivarna av innehåll med hög klass. [förtydliga]
+
+Förklaringen till detta[förtydliga] skulle enligt forskarna ligga i att förutsättningarna för att producera det som man kan kalla för ”allmän egendom” (collective goods) är så annorlunda vad gäller Wikipedia, jämfört med andra sammanhang. Det anses allmänt bland sociologer att det behövs en kritisk massa när en heterogen grupp med individer med både olika förutsättningar och motivation ska komma igång med att producera ”allmän egendom”.
+
+Denna uppnås med det produktionssätt som till exempel Wikipedia har på ett enklare och snabbare sätt än annars. Det blir fler som deltar och kvaliteten ökar. Med andra ord gör tekniken det möjligt att nå tidigare outnyttjade "resurser", genom att tröskeln för att delta sänkts.
+
+Forskarna studerade också skillnader mellan bidrag från registrerade och icke-registrerade skribenter. De valde 1 000 bidrag av registrerade användare och 1 000 bidrag av icke registrerade användare slumpmässigt ur vardera språkgruppen (från totalt drygt 87 000 bidrag som fanns tillgängliga den 1 mars 2005).[106]
+
+Konflikter och maktspel i arbetet att skapa konsensus
+I en studie[107] utförd av forskare från University of Washington och HP Labs har man försökt analysera redigeringskrig och konflikter i engelskspråkiga Wikipedias datadump från 2006:
+
+Wikipedia är ett massornas samarbete där formuleringen av artiklar inte bestäms definitivt utan genom konsensus. De sociala relationerna mellan Wikipedianerna leder ibland till konflikter. Policyer ("policies") och riktlinjer ("guidelines") underlättar ofta konfliktlösning men forskarna har hittat flera exempel där fundamentalt olika tolkningar av policyer inte har lett till någon lösning utan tvärtom förhindrat konsensus.
+
+Författarna har valt att analysera engelskspråkiga Wikipedias datadump från 2006. I denna dump har man försökt hitta redigeringskrig genom att studera artiklar med minst 250 redigeringar på dess diskussionssidor. Detta motsvarade 0,3 % av alla diskussionssidor. Dessa utvalda diskussionssidor täckte in 28,4 % av alla redigeringar på diskussionssidorna i dumpen. Dessutom täcker detta urval in 51,1 % av alla länkar till policyer. Sedan har man från de utvalda diskussionssidorna riktat in sig på kritiska sektioner genom att välja redigeringar under en tidsperiod då det var både många redigeringar på artikelsidan såväl som på diskussionssidan.
+
+Man hittade att tillit till konsensus ofta leder till ett antal tillfälliga maktspel. Maktspel som uppträdde ofta handlade om:
+
+Artiklars ämnesavgränsning. Centralt och perifert innehåll begränsas av en individ eller kärngrupp av bidragsgivare.
+Tidigare konsensus. Tidigare beslut presenteras som absoluta och icke utmanande.
+Tolkningsföreträde. En undergrupp i nätgemenskapen kräver större auktoritet än en annan.
+Bidragsgivarens legitimitet. Drag hos bidragsgivaren (såsom expertis) används för att främja eller underminera ett påstående.
+Hot om sanktioner. Hot om att använda sanktioner (såsom blockering) eller att genomföra en formell medling.
+Förfarande på andra sidor. Innehållsorganisation i andra artiklar framhålls för att validera eller diskreditera bidrag.
+Konsensus är aldrig slutgiltig och i dispyter diskuteras ofta legitimiteten i tidigare konsensus. Veteraner vill inte slösa tid på frågor som de anser lösta medan nybörjare uppfattar att deras perspektiv inte representerats i tidigare argument och därför vill lyfta konsensus till diskussion igen.
+
+Artikelförfattarna menar att Wikipedias nätgemenskap främjas av det svåra arbetet att söka konsensus och att sådant arbete kanske är det största formuleringsarbetet i Wikipedia och motsätter sig andra forskares åsikt att dessa aspekter av samarbetet är "kostsamt" och "improduktivt".
+
+Man erkänner dock att en del koordinationsarbete kan vara överflödigt men att eventuella verktyg för att underlätta koordinering inte får förstöra den sammanhållande funktion som konsensussökande diskussioner också skapar. Med koordinationsarbete menar man mödan att beskriva och arkivera tidigare diskussioner samt att hitta bland arkiverade diskussioner. Det man efterfrågar är bland annat visualiseringsverktyg för att annotera tidigare konsensus och vilka som var med i denna process, för att sammanfatta konflikter över tid så att man lättare kan förstå en artikels tillstånd. Ett meritsystemverktyg skulle kunna motivera till meningsfulla redigeringar, men kan även ge upphov till konkurrens. Ett innehållsdrivet meritsystem riskerar att bidragsgivare av rädsla för att sänka sin meritstatus försöker förhindra att deras text ändras.
+
+Administratörsval
+Forskare vid Carnegie Mellon University har utifrån en mängd statistik försökt skapa en modell[108] för att förstå och förutsäga administratörsval på engelskspråkiga Wikipedia. I modellen har de tagit in flera faktorer som i olika utsträckning påverkade resultatet av valet. Bland annat kunde de visa att antalet artikelredigeringar påverkade väldigt lite, men att policy- och projektredigeringar höjde chanserna från 1,8 % till 17-19 % per 1 000 redigeringar. De visade även att aktivitet i inom olika områden och att skriva redigeringssammanfattningar ökade chanserna att bli vald, medan medverkan i medlingsärenden över lag sänkte chanserna. Modellen använde dock rätt trubbiga mått på aktiviteten och forskarna konstaterar att man bör analysera vad administratörerna gör mer exakt.
+
+Forskarna påpekar själva att modellen inte tar vara på kvalitén i redigeringarna utan bara utgår från kvantiteten, men den har ändå visat sig kunna förutsäga 74,8 % av valresultaten.

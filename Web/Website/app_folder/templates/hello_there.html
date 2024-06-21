@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello, Flask</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='site.css') }}">
+    </head>
+<body>
+  <a href="https://code.visualstudio.com/docs/python/tutorial-flask#:~:text=the%20final%20effect.-,Create%20a%20code%20snippet,-Because%20the%20three">
+    Vart vi var
+  <br>
+  </a>
+      
+  {% if name %}
+    <span class="message">Hello, there {{ name }}!</span> It's {{ date.strftime("%A, %d %B, %Y at %X") }}.
+  {% else %}
+    <span class="message">What's your name? Provide it after /hello/ in the URL.
+    </span>
+
+  {% endif %}
+  
+</body>
+</html>
+
+
+
+
